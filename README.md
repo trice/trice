@@ -1,4 +1,5 @@
-## Hi there 👋
+## Boot.dev Journey
+These are some of the trophies I've earned on [boot.dev](https://www.boot.dev)
 
 <!--
 **trice/trice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+|   |   |
+| --- | --- |
+| <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/120f4a4e-a84c-40b5-ae21-ce551d7fa0a0.jpeg?1748235764845"> | <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/03c7a351-4807-4c86-88ea-0fc502ffec17.jpeg?1748235893426"> |
+| <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/94a1a74d-a8f1-4b98-bf43-8bc7cee10ca9.jpeg?1748236538648"> | <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/5e00626f-07e3-4da8-9925-ef68c927d05a.jpeg?1748236582761"> |
+| <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/28313b0c-7419-4d59-8867-14c62f7d697d.jpeg?1748236642028"> | <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/69ce0f74-cdf4-43f4-ae8f-6a7fdca9d4a5.jpeg?1748236780341"> |
